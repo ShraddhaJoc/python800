@@ -1,0 +1,1 @@
+append mode creates a file if it doesnot existnewfile.txt already exists append mode newfile.txt already exists append mode appends data on EQL
